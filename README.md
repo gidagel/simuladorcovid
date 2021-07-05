@@ -1,3 +1,5 @@
 # simuladorcovid
 
-Simulador Territórios Desktop - Modelo de Dispersão do Coronavírus (Covid-19)
+Desktop Territories Simulator - Coronavirus Dispersion Model (Ação Covid-19)
+- Full-screen version
+- NETLogo Model adaptation
